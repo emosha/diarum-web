@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Features.vue renders correctly 1`] = `
+<div id="features" class="features">
+  <h2 class="features__heading">Features</h2>
+  <hr class="features__line">
+  <div class="features__cards">
+    <featurecard-stub text="Record your day" icon="pen"></featurecard-stub>
+    <featurecard-stub text="Add your mood" icon="smile"></featurecard-stub>
+    <featurecard-stub text="Check your todos" icon="check"></featurecard-stub>
+  </div>
+</div>
+`;

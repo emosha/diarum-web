@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Wave.vue renders correctly 1`] = `
+<div><svg viewBox="0 0 500 150" preserveAspectRatio="none">
+    <path d="M0.00,92.27 C216.83,2.39 304.30,232.92 500.00,92.27 L500.00,0.00 L0.00,0.00 Z" style="stroke: none; fill: #5d59cb;"></path>
+  </svg></div>
+`;

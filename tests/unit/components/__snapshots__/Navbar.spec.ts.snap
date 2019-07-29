@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar.vue renders correctly 1`] = `
+<div class="nav">
+  <div class="logo"></div>
+  <div><a href="#" class="navlink navlink--a">Features</a>
+    <router-link to="/signin" class="navlink call-to-action">
+      Signin
+    </router-link>
+  </div>
+</div>
+`;

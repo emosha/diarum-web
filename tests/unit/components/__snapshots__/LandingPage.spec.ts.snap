@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LandingPage.vue renders correctly 1`] = `
+<div class="landing-page">
+  <hero-stub></hero-stub>
+  <features-stub></features-stub>
+  <footer-stub></footer-stub>
+</div>
+`;
