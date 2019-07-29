@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Arrow.vue renders correctly 1`] = `
+<div class="arrow"><a href="#" class="arrow__link">
+    <div class="arrow__container">
+      <font-awesome-icon icon="chevron-up"></font-awesome-icon>
+    </div>
+  </a></div>
+`;

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1024" viewBox="0 0 1440 1024">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        opacity: 0.3;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-width: 40px;
+        opacity: 0.28;
+        stroke: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="397" y1="512" x2="1043" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#deefed"/>
+      <stop offset="0.982" stop-color="#f5bdba"/>
+      <stop offset="1" stop-color="#f5bdba"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1322" y1="806" x2="1135" y2="806" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5bdba"/>
+      <stop offset="0.808" stop-color="#7a6cc8" stop-opacity="0.161"/>
+      <stop offset="1" stop-color="#5d59cb" stop-opacity="0.212"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="M703.282,263.65c20.177-4.21,37.073,12.517,59.553,28.914a322.332,322.332,0,0,0,84.463,46.9C881.4,352.9,922.3,362.5,960.285,376c37.387,13.7,71.855,31.314,79.365,65.432,10.83,31.144-5.51,72.892-35.42,111.434-30.007,39-73.587,74.789-119.672,104.523-46.3,29.866-95.109,53.668-140.581,71.674-45.8,17.813-88.265,29.831-129.463,31.664-81.121,4.576-132.271-48.014-169.392-104.989-18.327-28.718-32.993-58.836-41.575-86.718-8.256-28.045-10.426-53.856,3.734-77.731,11.535-25.83,40.954-39.647,72.558-55.355,31.947-15.261,66.08-32.412,94.97-54.589,29.235-21.729,53.229-48.484,72.812-72.655C667.549,284.963,683.068,263.825,703.282,263.65Z"/>
+  <path class="cls-2" d="M1228.5,712c51.64,0,93.5,42.085,93.5,94s-41.86,94-93.5,94-93.5-42.085-93.5-94S1176.86,712,1228.5,712Z"/>
+</svg>

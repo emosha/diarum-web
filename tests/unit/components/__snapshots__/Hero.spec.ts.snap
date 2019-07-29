@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hero.vue renders correctly 1`] = `
+<div id="hero" class="hero">
+  <navbar-stub></navbar-stub>
+  <div class="hero__main"><img src="../assets/img/diary.png" class="hero__main__img">
+    <div class="hero__main__text-div">
+      <p class="hero__main__text hero__main__text--big">Let's keep your secrets</p>
+      <p class="hero__main__text hero__main__text--small">
+        Diarum keeps your secrets and tracks your todos and habits.
+      </p>
+      <router-link to="/signup" class="btn hero__main__btn">
+        Get Started
+      </router-link>
+    </div>
+  </div>
+  <arrow-stub href="#features" direction="down"></arrow-stub>
+</div>
+`;

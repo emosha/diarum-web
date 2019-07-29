@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeatureCard.vue renders correctly 1`] = `
+<div class="feature-card"><embed src="[object Object]">
+  <div class="feature-card__text">
+    Text
+  </div>
+</div>
+`;

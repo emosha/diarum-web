@@ -1,0 +1,25 @@
+@mixin media-breakpoint-down($width) {
+  @if $width == xxs {
+    @media (max-width: 389.98px) { @content; }
+  }
+
+  @if $width == xs {
+    @media (min-width: 390px) and (max-width: 575.98px) { @content; }
+  }
+
+  @if $width == sm {
+    @media (min-width: 576px) and (max-width: 767.98px) { @content; }
+  }
+
+  @if $width == md {
+    @media (min-width: 768px) and (max-width: 991.98px) { @content; }
+  }
+
+  @if $width == lg {
+    @media (min-width: 992px) and (max-width: 1199.98px) { @content; }
+  }
+
+  @if $width == xl {
+    @media (min-width:992px) and (max-width: 1199.98px) { @content; }
+  }
+}
